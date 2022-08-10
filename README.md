@@ -3,3 +3,5 @@ Creating A Class
 
 
 For this assignmnet, I was tasked with creating a class with a sucessful compilation. My screenshot show this task to be completed. I was also tasked with creating a UML model for the class, I have attached that along with .cs files of my code. My class creates an inventory and adds or deletes with the press of a button. Each method also has comments attached as requested.
+
+My private string is named "box" so my inventory simulates a company holding boxes. After my program compiles, its tells the amount of boxes in numbers.
